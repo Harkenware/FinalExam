@@ -41,13 +41,13 @@ background-color: red;
 }
 
 .left, .right {
-  width: 31%;
+  width: 30%;
   height: 50%;
 }
 
 .middle {
-  width: 31%;
-  height: 31%;
+  width: 30%;
+  height: 30%;
 }
 
 /* Clear floats after the columns */
