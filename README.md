@@ -1,5 +1,3 @@
 # FinalExam
-MyBio Assignment
-<ul>
-  <li>Christopher Morales
-    </ul>
+MyBio Assignment<br>
+Christopher Morales
